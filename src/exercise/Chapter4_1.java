@@ -27,6 +27,13 @@ public class Chapter4_1 {
         System.out.println("Enter a score 10 : ");
         int j =scanner.nextInt();
 
+        int total = a + b + c + d + e + f + g +h + i + j;
+        int avg = total / 10;
+
+        //display result
+        System.out.println("Total : " + total);
+        System.out.println("Average : " + avg);
+
 
 
     }
