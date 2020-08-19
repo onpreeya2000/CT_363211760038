@@ -36,6 +36,7 @@ public class Example_if_eles_if {
             System.out.println("Your grade is A.");
         } else {
             // coding here ...
+            System.out.println("Please, inpot score be");
         }
 
     }
